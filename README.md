@@ -57,4 +57,4 @@ ETL pipeline: https://github.com/nikolaaswillaert/Airflow_ImmoEliza
 
 
 ## :floppy_disk: Contact
-[Nikolaas](https://www.linkedin.com/in/nikolaas-willaert-66a7ab279/)
+[LinkedIn Profile - Nikolaas Willaert](https://www.linkedin.com/in/nikolaas-willaert-66a7ab279/)
