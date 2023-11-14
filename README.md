@@ -15,7 +15,7 @@ Apex Legends Computer Vision project:     https://github.com/nikolaaswillaert/Ap
 
 ## Studies 
 - **Junior Data Engineer**: AI Bootcamp with track in Data Engineering at [BeCode.org](https://becode.org/)
-  - Computer Vision, Large Language Models, ETL pipelines, Machine Learning, Artificial Intelligence, Cloud Computing and Data Analysis
+  - Computer Vision (custom model training), Large Language Models, ETL pipelines, Machine Learning, Artificial Intelligence, Cloud Computing and Data Analysis
 - **Bachelor in Biotechnology - Specialised in Food Safety / Food Quality**
 <br>
 
