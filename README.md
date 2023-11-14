@@ -15,7 +15,7 @@ A Data Engineer with a passion for machine vision
 - **Bachelor in Biotechnology - Speciliast in Food Safety / Food Quality*
 
 # Languages and Tools
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python">Python</code>
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" alt="OpenCV"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas"></code>
