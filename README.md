@@ -9,7 +9,7 @@ A Data Engineer with a passion for **Computer vision** projects and anything rel
   </a>
 </right>
 
-## 🧑‍🎓 Studies
+## Studies
 
 - **Junior Data Engineer**: AI Bootcamp with track in Data Engineering at [BeCode.org](https://becode.org/)
   - Computer Vision, Large Language Models, ETL pipelines, Machine Learning, Artificial Intelligence, Cloud Computing and Data Analysis
