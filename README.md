@@ -1,9 +1,9 @@
-## Hi there 👋, I'm [Andreia!](https://github.com/andreia-negreira) 👩‍💻
-
+## Hi there 👋, I'm [Nikolaas!](https://github.com/andreia-negreira) 👩‍💻
+A Data Engineer with a passion for machine vision
 🚀 Welcome to my GitHub repository, where innovation meets code – explore my projects, contributions, and the journey of turning ideas into reality! 🌟
 
 <right>
-<a href="https://www.linkedin.com/in/andreiahnegreira/" target="_blank">
+<a href="https://www.linkedin.com/in/nikolaas-willaert-66a7ab279/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/>
   </a>
 </right>
@@ -35,10 +35,10 @@ https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg
 
 ## ⚡ Github Stats
 
-![Andreia's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreia-negreira&show_icons=true&theme=tokyonight)
+![Niko's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikolaaswillaert&show_icons=true&theme=tokyonight)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreia-negreira&show_icons=true&hide_border=true&layout=compact&hide_progress=true&langs_count=10"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikolaaswillaert&show_icons=true&hide_border=true&layout=compact&hide_progress=true&langs_count=10"/>
 
 ## 🔥 Github Streaks</b></summary>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=andreia-negreira&hide_border=true" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=nikolaaswillaert&hide_border=true" />
