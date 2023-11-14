@@ -54,3 +54,7 @@ ETL pipeline: https://github.com/nikolaaswillaert/Airflow_ImmoEliza
 ## 🔥 Github Streaks</b></summary>
 
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=nikolaaswillaert&hide_border=true" />
+
+
+## :floppy_disk: Contact
+[Nikolaas](https://www.linkedin.com/in/nikolaas-willaert-66a7ab279/)
