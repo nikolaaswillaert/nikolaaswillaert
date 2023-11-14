@@ -37,6 +37,7 @@ Welcome to my GitHub repository, where innovative ideas meet code – explore my
 ![Niko's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikolaaswillaert&show_icons=true&theme=tokyonight)
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikolaaswillaert&show_icons=true&hide_border=true&layout=compact&hide_progress=true&langs_count=10"/>
+<br>
 
 ## 🔥 Github Streaks</b></summary>
 
