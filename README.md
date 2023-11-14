@@ -6,6 +6,7 @@ Welcome to my GitHub repository, where innovative ideas meet code – explore my
 **Checkout my top repositories:** <br>
 Youtube-Chat:                             https://github.com/nikolaaswillaert/youtube-AI-chat <br>
 Apex Legends Computer Vision project:     https://github.com/nikolaaswillaert/Apex_Legends_CV <br>
+ETL pipeline: https://github.com/nikolaaswillaert/Airflow_ImmoEliza
 
 <right>
 <a href="https://www.linkedin.com/in/nikolaas-willaert-66a7ab279/" target="_blank">
