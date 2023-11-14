@@ -10,13 +10,11 @@ Welcome to my GitHub repository, where innovative ideas meet code – explore my
 </right>
 
 ## Studies 
-<br>
 - **Junior Data Engineer**: AI Bootcamp with track in Data Engineering at [BeCode.org](https://becode.org/)
   - Computer Vision, Large Language Models, ETL pipelines, Machine Learning, Artificial Intelligence, Cloud Computing and Data Analysis
 - **Bachelor in Biotechnology - Specialised in Food Safety / Food Quality**
-
-## Languages and Tools 
 <br>
+## Languages and Tools 
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"></code>
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" alt="OpenCV"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow"></code>
@@ -32,7 +30,7 @@ Welcome to my GitHub repository, where innovative ideas meet code – explore my
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="graphql"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="gcp"></code>
-
+<br>
 ## ⚡ Github Stats
 
 ![Niko's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikolaaswillaert&show_icons=true&theme=tokyonight)
