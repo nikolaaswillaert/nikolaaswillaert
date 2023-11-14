@@ -1,4 +1,4 @@
-## Hi there 👋, I'm [Nikolaas](https://github.com/nikolaaswillaert)
+## 👋 Hi there, I'm [Nikolaas](https://github.com/nikolaaswillaert)
 A Data Engineer with a passion for Computer vision projects and anything related to Computer Vision <br>
 
 🚀 Welcome to my GitHub repository, where innovative ideas meet code – explore my projects, contributions, and the journey of turning ideas into reality!
