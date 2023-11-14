@@ -13,7 +13,7 @@ A Data Engineer with a passion for **Computer vision** projects and anything rel
 
 - **Junior Data Engineer**: AI Bootcamp with track in Data Engineering at [BeCode.org](https://becode.org/)
   - Computer Vision, Large Language Models, ETL pipelines, Machine Learning, Artificial Intelligence, Cloud Computing and Data Analysis
-- **Bachelor in Biotechnology - Speciliast in Food Safety / Food Quality*
+- **Bachelor in Biotechnology - Speciliast in Food Safety / Food Quality**
 
 # Languages and Tools
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"></code>
