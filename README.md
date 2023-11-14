@@ -4,18 +4,9 @@ A Data Engineer with a passion for **Computer vision** projects and anything rel
 Welcome to my GitHub repository, where innovative ideas meet code – explore my projects, contributions, and the journey of turning ideas into reality!
 
 **:cyclone: Checkout my top repositories:** <br>
-Youtube-Chat: https://github.com/nikolaaswillaert/youtube-AI-chat |  <br>
-Apex Legends Computer Vision project: https://github.com/nikolaaswillaert/Apex_Legends_CV <br>
-ETL pipeline: https://github.com/nikolaaswillaert/Airflow_ImmoEliza
-| YouTube-Chat                                | Apex Legends Computer Vision project       |
-| ------------------------------------------- | ------------------------------------------ |
-| [YouTube-Chat](https://github.com/nikolaaswillaert/youtube-AI-chat) | [Apex Legends Computer Vision project](https://github.com/nikolaaswillaert/Apex_Legends_CV) |
-
-| ETL pipeline                                |
-| ------------------------------------------- |
-| [ETL pipeline](https://github.com/nikolaaswillaert/Airflow_ImmoEliza) |
-
-
+- [YouTube-Chat](https://github.com/nikolaaswillaert/youtube-AI-chat)
+- [Apex Legends Computer Vision project](https://github.com/nikolaaswillaert/Apex_Legends_CV)
+- [ETL pipeline](https://github.com/nikolaaswillaert/Airflow_ImmoEliza)
 
 <right>
 <a href="https://www.linkedin.com/in/nikolaas-willaert-66a7ab279/" target="_blank">
