@@ -14,7 +14,6 @@ Welcome to my GitHub repository, where innovative ideas meet code – explore my
   - Computer Vision, Large Language Models, ETL pipelines, Machine Learning, Artificial Intelligence, Cloud Computing and Data Analysis
 - **Bachelor in Biotechnology - Specialised in Food Safety / Food Quality**
 <br>
-
 ## Languages and Tools 
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"></code>
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" alt="OpenCV"></code>
