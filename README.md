@@ -1,5 +1,6 @@
 ## Hi there 👋, I'm [Nikolaas!](https://github.com/andreia-negreira) 👩‍💻
-A Data Engineer with a passion for machine vision <br>
+A Data Engineer with a passion for Computer vision projects and anything related to Computer Vision <br>
+
 🚀 Welcome to my GitHub repository, where innovation meets code – explore my projects, contributions, and the journey of turning ideas into reality! 🌟
 
 <right>
