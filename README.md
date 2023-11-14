@@ -31,6 +31,7 @@ Welcome to my GitHub repository, where innovative ideas meet code – explore my
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="gcp"></code>
 <br>
+<br>
 
 ## ⚡ Github Stats
 
