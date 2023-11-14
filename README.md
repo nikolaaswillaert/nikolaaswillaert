@@ -15,7 +15,7 @@ ETL pipeline: https://github.com/nikolaaswillaert/Airflow_ImmoEliza
 </right>
 
 ## Studies 
-- **Junior Data Engineer**: AI Bootcamp with track in Data Engineering at [BeCode.org](https://becode.org/)
+- **:computer: Junior Data Engineer**: AI Bootcamp with track in Data Engineering at [BeCode.org](https://becode.org/)
   - Computer Vision (custom model training, OpenCV, Tensorflow)
   - Large Language Models (OpenAI, HuggingFace)
   - ETL pipelines, Machine Learning
@@ -23,7 +23,7 @@ ETL pipeline: https://github.com/nikolaaswillaert/Airflow_ImmoEliza
   - Cloud Computing
   - Data Analysis
     
-- **Bachelor in Biotechnology - Specialised in Food Safety / Food Quality**
+- **:bookmark_tabs: Bachelor in Biotechnology - Specialised in Food Safety / Food Quality**
 <br>
 
 ## Languages and Tools 
