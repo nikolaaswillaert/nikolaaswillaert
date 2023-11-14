@@ -3,6 +3,10 @@ A Data Engineer with a passion for **Computer vision** projects and anything rel
 
 Welcome to my GitHub repository, where innovative ideas meet code – explore my projects, contributions, and the journey of turning ideas into reality!
 
+Checkout my top repositories:
+Youtube-Chat: https://github.com/nikolaaswillaert/youtube-AI-chat
+Apex Legends Computer Vision project: https://github.com/nikolaaswillaert/Apex_Legends_CV
+
 <right>
 <a href="https://www.linkedin.com/in/nikolaas-willaert-66a7ab279/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/>
